@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.407">
+  <properties />
+  
+  
+            <testcase name="getOpenid" time="0.219" classname="WeiXin.weixinTest" />
+                <testcase name="Login" time="2.188" classname="WeiXin.weixinTest" />
+      
+</testsuite>

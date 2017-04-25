@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.797">
+  <properties />
+  
+  
+            <testcase name="OpenShouYe" time="1.453" classname="TinyShop.TinyShopTest" />
+                <testcase name="Login" time="0.344" classname="TinyShop.TinyShopTest" />
+      
+</testsuite>
